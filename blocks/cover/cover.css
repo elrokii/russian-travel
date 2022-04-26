@@ -2,7 +2,7 @@
     background-image: url(../../images/cover-trains.jpg);
     background-size: cover;
     max-width: 1184px;
-    max-height: 720px;
+    min-height: 720px;
     margin: 0 auto;
     transition: all .5s ease;
 
